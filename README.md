@@ -1,6 +1,6 @@
 ## Latest Stable Release
-Hey! This is the latest stable release for Basic-chat. That's all there is to say. 
+Hey! The latest stable release is simply pocketed within the foder.
 ## Beta and Nightly Releases
-If you'd like to see the beta or nightly releases for Basic-chat, let me know, and I might add it to the respitory. 
+The beta and nightly releases will come to the repo eventually, but not just yet.
 ## Important Notice
-(This repository contains proprietary code and resources that are intended solely for internal use. Unauthorized access, distribution, or modification of the contents of this repository is strictly prohibited)
+Nothing. Something like a critical bug fix would appear here.
