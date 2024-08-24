@@ -1,4 +1,3 @@
-#Basic-chat
 ## Latest Stable Release
 Hey! This is the latest stable release for Basic-chat. That's all there is to say. 
 ## Beta and Nightly Releases
