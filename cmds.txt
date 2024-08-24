@@ -1,0 +1,17 @@
+List of Useful Commands
+(Most are self-explanatory):
+
+purge: Clears the chat for all players.
+mute: Silences a specified player indefinitely until the unmute command is used.
+unmute: Removes the mute from a specified player.
+kick: Removes a player from the chatroom for a duration managed by the phtime command. Unlike a ban, a kick is less strict, and players may attempt to bypass it by refreshing the chat. The default kick duration is 15 seconds.
+phtime: Adjusts the duration for which a player is kicked from the chatroom.
+ban: Prohibits a player from accessing the chatroom for a specified period, managed by the banphtime command. Bans are strictly enforced, making them nearly impossible to evade without using a different device.
+banphtime: Sets the duration of a ban. The default duration is 30 seconds.
+shutdown: Forcefully restarts or resets all clients currently using the chatroom.
+URL: Displays content from a specified URL, provided the connection is accepted and not refused.
+URLx: Closes a URL that was displayed using the URL command.
+User: Masks the admin’s username with a specified value.
+Audio: Plays a single audio from a specified URL.
+Audio+: Plays audio from a URL without volume or concurrent audio limits, offering less sanitary control compared to the Audio command.
+DelAudio: Stops any audio being played by the Audio command. It does not affect audio played by Audio+.
