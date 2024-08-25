@@ -15,3 +15,4 @@ User: Masks the admin’s username with a specified value.
 Audio: Plays a single audio from a specified URL.
 Audio+: Plays audio from a URL without volume or concurrent audio limits, offering less sanitary control compared to the Audio command.
 DelAudio: Stops any audio being played by the Audio command. It does not affect audio played by Audio+.
+forceupdate: Forces all clients (active or not) to update to the latest version.
